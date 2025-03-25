@@ -1,8 +1,0 @@
-services:
-    <service_name>:
-        working_dir: /app
-        volumes: 
-            - ./<javascript_file>:/app/main.js
-        stdin_open: true
-        tty: true
-        command: ["/bin/sh"]

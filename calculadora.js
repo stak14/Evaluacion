@@ -11,7 +11,7 @@ function calcularMultiplicacion(a, b, c) {
 calcularMultiplicacion(3, 7);
 // Resultado de la multiplicación: 21*/
 
-//ME COSTO RECORDAR LAS FUNCIONES, Y YA QUE NO TENIA USO BORRE EL C PARA QUE PUEDA DAR EL RESULTADO Y LAS LLAVES DE CONST NO IBAN
+//ME COSTO RECORDAR LAS FUNCIONES, Y YA QUE NO TENIA USO BORRE EL C PARA QUE PUEDA DAR EL RESULTADO Y LAS LLAVES DE CONST NO IBAN O SI PERO HABIA QUE PONER RETURN
 const multiplicar = (x, y) => x * y;
 
 function calcularMultiplicacion(a, b) {
